@@ -1,0 +1,72 @@
+This is BibTeX, Version 0.99e (TeX Live 2026)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: Bernal_H_DGAA.aux
+The style file: sn-mathphys-ay.bst
+Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
+Reallocated global_strs (elt_size=200001) to 20 items from 10.
+Reallocated glb_str_end (elt_size=4) to 20 items from 10.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Database file #1: references.bib
+Warning--entry type for "cnmh_datos" isn't style-file defined
+--line 130 of file references.bib
+sn-mathphys-ay.bst [2024/07/19 v1.1 bibliography style]
+Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+You've used 48 entries,
+            7485 wiz_defined-function locations,
+            1580 strings with 18594 characters,
+and the built_in function-call counts, 319814 in all, are:
+= -- 53835
+> -- 1625
+< -- 872
++ -- 28536
+- -- 441
+* -- 10204
+:= -- 57928
+add.period$ -- 64
+call.type$ -- 48
+change.case$ -- 351
+chr.to.int$ -- 2342
+cite$ -- 48
+duplicate$ -- 2132
+empty$ -- 8021
+format.name$ -- 833
+if$ -- 81357
+int.to.chr$ -- 2
+int.to.str$ -- 49
+missing$ -- 0
+newline$ -- 700
+num.names$ -- 240
+pop$ -- 773
+preamble$ -- 1
+purify$ -- 370
+quote$ -- 0
+skip$ -- 32668
+stack$ -- 0
+substring$ -- 29951
+swap$ -- 1264
+text.length$ -- 705
+text.prefix$ -- 24
+top$ -- 1
+type$ -- 2085
+warning$ -- 0
+while$ -- 1358
+width$ -- 0
+write$ -- 986
+(There was 1 warning)

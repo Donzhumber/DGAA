@@ -1,0 +1,41 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# LaTeX intermediate build files
+*.aux
+*.log
+*.out
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+*.toc
+*.nav
+*.snm
+*.vrb
+*.bcf
+*.run.xml
+missfont.log
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+.pytest_cache/
+
+# Lean 4 Lake build artifacts
+.lake/build/
+lean/.lake/build/
+
+# Do not ignore important assets
+!*.pdf
+!*.zip
+!*.pt
+!*.dta
+!*.xlsx
+!*.csv

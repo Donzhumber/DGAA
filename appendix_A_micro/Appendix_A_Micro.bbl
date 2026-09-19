@@ -1,0 +1,62 @@
+\begin{thebibliography}{8}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Bradburn et~al.(2003)Bradburn, Clark, Love, and Altman]{Bradburn2003}
+MJ~Bradburn, TG~Clark, SB~Love, and DG~Altman.
+\newblock Survival analysis part ii: Multivariate data analysis -- an introduction to concepts and methods.
+\newblock \emph{British Journal of Cancer}, 89\penalty0 (3):\penalty0 431--436, 2003.
+\newblock \doi{10.1038/sj.bjc.6601119}.
+
+\bibitem[{CNMH}(2013)]{CNMH2013}
+{CNMH}.
+\newblock \emph{Una sociedad secuestrada}.
+\newblock Imprenta Nacional, Bogotá, 2013.
+\newblock ISBN 978-958-57608-6-8.
+\newblock URL \url{https://centrodememoriahistorica.gov.co/una-sociedad-secuestrada/}.
+\newblock \href{https://centrodememoriahistorica.gov.co/una-sociedad-secuestrada/}{Centro de Memoria Histórica}.
+
+\bibitem[{CNMH}(2026)]{cnmh_datos}
+{CNMH}.
+\newblock Portal de datos: El conflicto en cifras, 2026.
+\newblock URL \url{https://micrositios.centrodememoriahistorica.gov.co/observatorio/portal-de-datos/el-conflicto-en-cifras/}.
+\newblock \href{https://micrositios.centrodememoriahistorica.gov.co/observatorio/portal-de-datos/el-conflicto-en-cifras/}{Conflicto en Cifras}.
+
+\bibitem[Cox(1972)]{Cox1972}
+D.~R. Cox.
+\newblock Regression models and life-tables.
+\newblock \emph{Journal of the Royal Statistical Society. Series B (Methodological)}, 34\penalty0 (2):\penalty0 187--220, 1972.
+\newblock \doi{10.1111/j.2517-6161.1972.tb00899.x}.
+\newblock URL \url{http://www.jstor.org/stable/2984518}.
+
+\bibitem[Hausman and McFadden(1984)]{HausmanMcFadden1984}
+Jerry~A. Hausman and Daniel McFadden.
+\newblock Specification tests for the multinomial logit model.
+\newblock \emph{Econometrica}, 52\penalty0 (5):\penalty0 1219--1240, 1984.
+\newblock \doi{10.2307/1910997}.
+\newblock URL \url{http://www.jstor.org/stable/1910997}.
+
+\bibitem[Little and Rubin(2020)]{LittleRubin2020}
+Roderick J.~A. Little and Donald~B. Rubin.
+\newblock \emph{Statistical Analysis with Missing Data}.
+\newblock Wiley Series in Probability and Statistics. Wiley, Hoboken, NJ, third edition edition, 2020.
+\newblock ISBN 9780470526798.
+\newblock \doi{10.1002/9781119482260}.
+
+\bibitem[Weesie(1999)]{Weesie1999}
+Jeroen Weesie.
+\newblock Seemingly unrelated estimation and the cluster-adjusted sandwich estimator.
+\newblock \emph{Stata Technical Bulletin}, \penalty0 (52):\penalty0 34--46, 1999.
+\newblock URL \url{https://www.stata.com/products/stb/journals/stb52.pdf}.
+\newblock STB section sg121. \href{https://www.stata.com/products/stb/journals/stb52.pdf}{Stata Technical Bulletin}.
+
+\bibitem[Wooldridge(2010)]{Wooldridge2010}
+Jeffrey~M. Wooldridge.
+\newblock \emph{Econometric Analysis of Cross Section and Panel Data}.
+\newblock The MIT Press, Cambridge, Massachusetts and London, England, second edition, 2010.
+\newblock URL \url{https://mitpress.mit.edu/9780262232586/econometric-analysis-of-cross-section-and-panel-data/}.
+
+\end{thebibliography}

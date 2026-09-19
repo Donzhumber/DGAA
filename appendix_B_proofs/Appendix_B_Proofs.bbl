@@ -1,0 +1,135 @@
+\begin{thebibliography}{16}
+% BibTex style file: econsoc.bst, 2026-02-12
+\newcommand{\enquote}[1]{``#1''}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\providecommand{\urlprefix}{}
+\providecommand{\bibAnnoteFile}[1]{%
+  \IfFileExists{#1}{\begin{quotation}\noindent\textsc{Key:} #1\\
+  \textsc{Annotation:}\ \input{#1}\end{quotation}}{}}
+\providecommand{\bibAnnote}[2]{%
+  \begin{quotation}\noindent\textsc{Key:} #1\\
+  \textsc{Annotation:}\ #2\end{quotation}}
+\ifdefined\xcitelabel \else \def\xcitelabel#1{#1}\fi
+
+\bibitem[\protect\citeauthoryear{Aghion
+  et~al.}{1991}]{AghionBoltonHarrisJullien1991}
+\href{https://doi.org/10.2307/2297825}{%
+Aghion, Philippe, Patrick Bolton, Christopher Harris, and Bruno Jullien (1991),
+  \enquote{Optimal learning by experimentation.} \emph{The Review of Economic
+  Studies}, 58 (4), 621--654.
+}
+\bibAnnoteFile{AghionBoltonHarrisJullien1991}
+
+\bibitem[\protect\citeauthoryear{Aliprantis and
+  Border}{2006}]{AliprantisBorder2006}
+\href{https://doi.org/10.1007/3-540-29587-9}{%
+Aliprantis, Charalambos~D. and Kim~C. Border (2006), \emph{Infinite Dimensional
+  Analysis: A Hitchhiker's Guide}, 3 edition, Springer, Berlin.
+}
+\bibAnnoteFile{AliprantisBorder2006}
+
+\bibitem[\protect\citeauthoryear{Blackwell and
+  Dubins}{1962}]{BlackwellDubins1962}
+\href{https://doi.org/10.1214/aoms/1177704456}{%
+Blackwell, David and Lester~E. Dubins (1962), \enquote{Merging of opinions with
+  increasing information.} \emph{The Annals of Mathematical Statistics}, 33
+  (3), 882--886.
+}
+\bibAnnoteFile{BlackwellDubins1962}
+
+\bibitem[\protect\citeauthoryear{Bradburn et~al.}{2003}]{Bradburn2003}
+\href{https://doi.org/10.1038/sj.bjc.6601119}{%
+Bradburn, MJ, TG~Clark, SB~Love, and DG~Altman (2003), \enquote{Survival
+  analysis part ii: Multivariate data analysis -- an introduction to concepts
+  and methods.} \emph{British Journal of Cancer}, 89 (3), 431--436.
+}
+\bibAnnoteFile{Bradburn2003}
+
+\bibitem[\protect\citeauthoryear{Cox}{1972}]{Cox1972}
+\href{https://doi.org/10.1111/j.2517-6161.1972.tb00899.x}{%
+Cox, D.~R. (1972), \enquote{Regression models and life-tables.} \emph{Journal
+  of the Royal Statistical Society. Series B (Methodological)}, 34 (2),
+  187--220.
+}
+\bibAnnoteFile{Cox1972}
+
+\bibitem[\protect\citeauthoryear{Doob}{1953}]{Doob1953Stochastic}
+\href{https://archive.org/details/stochasticproces0000doob}{%
+Doob, Joseph~L. (1953), \emph{Stochastic Processes}, Wiley, New York.
+}
+\bibAnnoteFile{Doob1953Stochastic}
+
+\bibitem[\protect\citeauthoryear{Easley and Kiefer}{1988}]{EasleyKiefer1988}
+\href{https://doi.org/10.2307/1911358}{%
+Easley, David and Nicholas~M. Kiefer (1988), \enquote{Controlling a stochastic
+  process with unknown parameters.} \emph{Econometrica}, 56 (5), 1045--1064.
+}
+\bibAnnoteFile{EasleyKiefer1988}
+
+\bibitem[\protect\citeauthoryear{Jaynes}{1957}]{Jaynes1957Information}
+\href{https://doi.org/10.1103/PhysRev.106.620}{%
+Jaynes, E.~T. (1957), \enquote{Information theory and statistical mechanics.}
+  \emph{Physical Review}, 106 (4), 620--630.
+}
+\bibAnnoteFile{Jaynes1957Information}
+
+\bibitem[\protect\citeauthoryear{Kakutani}{1941}]{Kakutani1941}
+\href{https://doi.org/10.1215/S0012-7094-41-00838-4}{%
+Kakutani, Shizuo (1941), \enquote{A generalization of {B}rouwer's fixed point
+  theorem.} \emph{Duke Mathematical Journal}, 8 (3), 457--459.
+}
+\bibAnnoteFile{Kakutani1941}
+
+\bibitem[\protect\citeauthoryear{Kakutani}{1948}]{Kakutani1948}
+\href{https://doi.org/10.2307/1969123}{%
+Kakutani, Shizuo (1948), \enquote{On equivalence of infinite product measures.}
+  \emph{Annals of Mathematics}, 49 (2), 214--224.
+}
+\bibAnnoteFile{Kakutani1948}
+
+\bibitem[\protect\citeauthoryear{Kalai and Lehrer}{1993}]{KalaiLehrer1993}
+\href{https://doi.org/10.2307/2951492}{%
+Kalai, Ehud and Ehud Lehrer (1993), \enquote{Rational learning leads to nash
+  equilibrium.} \emph{Econometrica}, 61 (5), 1019--1045.
+}
+\bibAnnoteFile{KalaiLehrer1993}
+
+\bibitem[\protect\citeauthoryear{Kalbfleisch and
+  Prentice}{2002}]{KalbfleischPrentice2002}
+\href{https://doi.org/10.1002/9781118032985}{%
+Kalbfleisch, John~D. and Ross~L. Prentice (2002), \emph{The Statistical
+  Analysis of Failure Time Data}, 2 edition, Wiley, New York.
+}
+\bibAnnoteFile{KalbfleischPrentice2002}
+
+\bibitem[\protect\citeauthoryear{Rochet}{1987}]{Rochet1987}
+\href{https://doi.org/10.1016/0304-4068(87)90007-3}{%
+Rochet, Jean-Charles (1987), \enquote{A necessary and sufficient condition for
+  rationalizability in a quasi-linear context.} \emph{Journal of Mathematical
+  Economics}, 16 (2), 191--200.
+}
+\bibAnnoteFile{Rochet1987}
+
+\bibitem[\protect\citeauthoryear{Schervish}{1995}]{Schervish1995Theory}
+\href{https://doi.org/10.1007/978-1-4612-4250-5}{%
+Schervish, Mark~J. (1995), \emph{Theory of Statistics}, Springer Series in
+  Statistics, Springer, New York.
+}
+\bibAnnoteFile{Schervish1995Theory}
+
+\bibitem[\protect\citeauthoryear{Shiryaev}{2019}]{Shiryaev2019Probability}
+\href{https://doi.org/10.1007/978-0-387-72208-5}{%
+Shiryaev, Albert~N. (2019), \emph{Probability}, 2 edition, Graduate Texts in
+  Mathematics, Vol.~95, Springer, New York.
+}
+\bibAnnoteFile{Shiryaev2019Probability}
+
+\bibitem[\protect\citeauthoryear{Williams}{1991}]{Williams1991Martingales}
+\href{https://doi.org/10.1017/CBO9780511813658}{%
+Williams, David (1991), \emph{Probability with Martingales}, Cambridge
+  University Press, Cambridge.
+}
+\bibAnnoteFile{Williams1991Martingales}
+
+\end{thebibliography}

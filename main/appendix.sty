@@ -1,0 +1,24 @@
+\ProvidesPackage{appendix}[2020/02/08 v1.2c extra appendix facilities]
+\newif\if@chapter@pp \@chapter@ppfalse
+\newif\if@dotoc@pp   \@dotoc@ppfalse
+\newif\if@dotitle@pp \@dotitle@ppfalse
+\newif\if@dohead@pp  \@dohead@ppfalse
+\newif\if@dopage@pp  \@dopage@ppfalse
+\DeclareOption{toc}{\@dotoc@pptrue}
+\DeclareOption{title}{\@dotitle@pptrue}
+\DeclareOption{titletoc}{\@dotoc@pptrue\@dotitle@pptrue}
+\DeclareOption{header}{\@dohead@pptrue}
+\DeclareOption{page}{\@dopage@pptrue}
+\ProcessOptions\relax
+\newcommand{\@resets@pp}{\par
+  \setcounter{section}{0}%
+  \setcounter{subsection}{0}%
+  \gdef\thesection{\@Alph\c@section}}
+\newcommand{\@ppsaveapp}{}
+\newcommand{\@pprestoresec}{}
+\newcommand{\@redotocentry@pp}[1]{}
+\newcommand{\@formatsecmark@pp}[1]{#1}
+\newcommand{\clear@ppage}{}
+\newcommand{\appendixpage}{}
+\newcommand{\addappheadtotoc}{}
+\newenvironment{appendices}{\@resets@pp}{}
