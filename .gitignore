@@ -39,3 +39,4 @@ lean/.lake/build/
 !*.dta
 !*.xlsx
 !*.csv
+*.brf
